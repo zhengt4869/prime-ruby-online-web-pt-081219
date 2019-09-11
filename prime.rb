@@ -7,6 +7,7 @@ def prime?(n)
   if n%2 == 0 or n%3 == 0 
     return false
   i = 5
-  while i * i <
+  while i * i <=n
+  
   
 end 
