@@ -11,6 +11,7 @@ def prime?(n)
     if n % i == 0 or n % (i+2) == 0 
       return false 
     end 
-    
+    i += 6
+  end 
   
 end 
