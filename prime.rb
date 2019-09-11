@@ -8,6 +8,6 @@ def prime?(n)
     return false
   i = 5
   while i * i <=n
-  
+    if 
   
 end 
