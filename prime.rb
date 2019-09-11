@@ -4,6 +4,7 @@ def prime?(n)
     return false 
   elsif n <= 3
     return true
-  if 
+  if n%2 == 0 or n%3 == 0 
+    
   
 end 
