@@ -4,5 +4,8 @@ def prime?(n)
     return false 
   elsif n <= 3
     return true 
+  end 
+  
+  if 
   
 end 
