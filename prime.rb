@@ -8,6 +8,7 @@ def prime?(n)
     return false
   i = 5
   while i * i <=n
-    if n %
+    if n % i == 0 or n % (i+2) == 0 
+      
   
 end 
